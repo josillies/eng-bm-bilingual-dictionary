@@ -1,0 +1,882 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "dictionary.xsl"?>
+
+<dictionary>
+
+  <english> 
+    <letter>
+      <alphabet> A</alphabet>
+      <entry last-update = "june 2021">
+        <word> aardvark </word>
+        <definition> a medium-sized, burrowing, nocturnal mammal native to Africa.</definition>
+        <type> mammal </type>
+        <IPA>  ARD-vark </IPA>
+        <translation> aardvark </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> ant </word>
+        <definition> a small insect that lives in highly organized groups. There are many types of ant.</definition>
+        <type> insect </type>
+        <IPA>ænt</IPA>
+        <translation> semut </translation>
+      </entry>
+      <entry last-update = "april 2021">
+        <word> alligator </word>
+        <definition> a large reptile similar to a crocodile, with a long tail, hard skin and very big jaws.</definition>
+        <type> reptile </type>
+        <IPA>aluh-gaytuh(r)</IPA>
+        <translation> aligator </translation>
+      </entry>
+    </letter>
+    <letter>
+      <alphabet> B</alphabet>
+      <entry last-update = "june 2021">
+        <word> baboon </word>
+        <definition> a large African or Asian monkey with a long face like a dog’s.</definition>
+        <type> mammal </type>
+        <IPA> bæˈbuːn</IPA>
+        <translation> babun </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> bear </word>
+        <definition> a heavy wild animal with thick fur and sharp claws</definition>
+        <type> mammal </type>
+        <IPA> ber</IPA>
+        <translation> beruang </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> beetle </word>
+        <definition> an insect, often large and black, with a hard case on its back, covering its wings. </definition>
+        <type> insect </type>
+        <IPA> ˈbiːtl</IPA>
+        <translation> kumbang </translation>
+      </entry>
+    </letter>
+    <letter>
+      <alphabet> C</alphabet>
+      <entry last-update = "june 2021">
+        <word> camel </word>
+        <definition>an animal with a long neck and one or two humps on its back, used in desert countries for riding on or for carrying goods</definition>
+        <type> mammal </type>
+        <IPA> kæml </IPA>
+        <translation> unta </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> cat </word>
+        <definition>a small, four-legged, fur-covered animal often kept as a pets </definition>
+        <type> mammal </type>
+        <IPA> kæt </IPA>
+        <translation> kucing </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> chicken </word>
+        <definition>a young bird, especially a young hen</definition>
+        <type> bird </type>
+        <IPA> tjikin </IPA>
+        <translation> ayam </translation>
+      </entry>
+    </letter>
+    <letter>
+      <alphabet> D</alphabet>
+      <entry last-update = "june 2021">
+        <word> duck </word>
+        <definition>a common bird that lives on or near water and has short legs, webbed feet</definition>
+        <type> bird </type>
+        <IPA>  dak </IPA>
+        <translation> itik </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> deer </word>
+        <definition>an animal with long legs that eats grass, leaves, etc. and can run fast. Most male deer have antlers</definition>
+        <type> mammal </type>
+        <IPA>  dir </IPA>
+        <translation> rusa </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> donkey </word>
+        <definition>an animal of the horse family, with short legs and long ears. </definition>
+        <type> mammal </type>
+        <IPA>  dɑːŋki </IPA>
+        <translation> keldai </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> E</alphabet>
+      <entry last-update = "june 2021">
+        <word> elephant </word>
+        <definition>a very large animal with thick grey skin, large ears, two curved outer teeth called tusks and a long nose called a trunk. </definition>
+        <type> mammal </type>
+        <IPA> eli-fent </IPA>
+        <translation> gajah </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> eagle </word>
+        <definition>a large bird of prey with a sharp curved beak and very good sight </definition>
+        <type> bird </type>
+        <IPA>ˈiːɡl</IPA>
+        <translation> helang </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> F</alphabet>
+      <entry last-update = "june 2021">
+        <word> fox </word>
+        <definition>a wild animal of the dog family, with red-brown fur, a pointed face and a thick heavy tail</definition>
+        <type> mammal </type>
+        <IPA> fAwks </IPA>
+        <translation> musang </translation>
+      </entry>
+    <entry last-update = "june 2021">
+        <word> fish </word>
+        <definition>a creature that lives in water, breathes through gills, and uses fins and a tail for swimming</definition>
+        <type> fish </type>
+        <IPA> fis </IPA>
+        <translation> ikan </translation>
+      </entry>
+     <entry last-update = "june 2021">
+        <word> fly </word>
+        <definition>a small flying insect with two wings. There are many different types of fly and many of them spread disease.</definition>
+        <type> insect </type>
+        <IPA> flai </IPA>
+        <translation> lalat </translation>
+        </entry>
+       <entry last-update = "june 2021">
+        <word> frog </word>
+        <definition>small animal with smooth skin, that lives both on land and in water</definition>
+        <type> amphibian </type>
+        <IPA> fra:g </IPA>
+        <translation> katak </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> G</alphabet>
+      <entry last-update = "june 2021">
+        <word> giraffe </word>
+        <definition> a tall African animal with a very long neck, long legs, and dark marks on its coat</definition>
+        <type> mammal </type>
+        <IPA>  dze-ræf </IPA>
+        <translation> zirafah </translation>
+        </entry>
+        <entry last-update = "june 2021">
+        <word> goat </word>
+        <definition> an animal with horns and a coat of hair, that lives wild in mountain areas or is kept on farms for its milk or meat</definition>
+        <type> mammal </type>
+        <IPA>  goet </IPA>
+        <translation> kambing </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> goose </word>
+        <definition> a bird like a large duck with a long neck. Geese either live wild or are kept on farms.</definition>
+        <type> bird </type>
+        <IPA>  gus </IPA>
+        <translation> angsa </translation>
+      </entry>
+    </letter>
+    <letter>
+      <alphabet> H</alphabet>
+      <entry last-update = "june 2021">
+        <word> horse </word>
+        <definition>a large animal with four legs, a mane (= long thick hair on its neck) and a tail.</definition>
+        <type> mammal </type>
+        <IPA>  ho:rs </IPA>
+        <translation> kuda </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> hippopotamus </word>
+        <definition>a large, mostly herbivorous, semiaquatic mammal and ungulate native to sub-Saharan Africa.</definition>
+        <type> mammal </type>
+        <IPA>  HIP-e-POT-e-mes </IPA>
+        <translation> badak air </translation>
+      </entry>
+        <entry last-update = "june 2021">
+        <word> hornbill </word>
+        <definition>a tropical bird with a very large curved beak</definition>
+        <type> bird </type>
+        <IPA>  hɔːrnbɪl </IPA>
+        <translation> burung kenyalang </translation>
+      </entry>
+    </letter>      
+        <letter>
+      <alphabet> I</alphabet>
+      <entry last-update = "june 2021">
+        <word> iguana</word>
+        <definition>
+a large, arboreal, tropical American lizard with a spiny crest along the back and greenish coloration, occasionally kept as a pet.</definition>
+        <type> reptile </type>
+        <IPA>e'gwäna </IPA>
+        <translation> iguana </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> J</alphabet>
+      <entry last-update = "june 2021">
+        <word> jellyfish </word>
+        <definition>
+a free-swimming marine coelenterate with a gelatinous bell- or saucer-shaped body that is typically transparent and has stinging tentacles around the edge.</definition>
+        <type> fish </type>
+        <IPA> jelefiSH </IPA>
+        <translation> ubur-ubur </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> K</alphabet>
+      <entry last-update = "june 2021">
+        <word> kangaroo </word>
+        <definition>a large plant-eating marsupial with a long powerful tail and strongly developed hind limbs that enable it to travel by leaping</definition>
+        <type> marsupial </type>
+        <IPA>kaNGɡəˈro͞o</IPA>
+        <translation> kanggaru </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> L</alphabet>
+      <entry last-update = "june 2021">
+        <word> lion </word>
+        <definition>a large tawny-colored cat that lives in prides, found in Africa and northwestern India</definition>
+        <type> mammal </type>
+        <IPA> li-en </IPA>
+        <translation> singa </translation>
+      </entry>
+        <entry last-update = "june 2021">
+        <word> lobster </word>
+        <definition>a sea creature with a hard shell, a long body divided into sections, eight legs and two large claws</definition>
+        <type> crustacean </type>
+        <IPA> ˈlɑːbstər </IPA>
+        <translation> udang galah </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> ladybug </word>
+        <definition>a small flying insect, usually red with black spots</definition>
+        <type> insects </type>
+        <IPA> leɪdibɜːrd </IPA>
+        <translation> kumbang betina </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> M</alphabet>
+      <entry last-update = "june 2021">
+        <word> monkey </word>
+        <definition> an animal with a long tail, that climbs trees and lives in hot countries.</definition>
+        <type> mammal </type>
+        <IPA> man-ki </IPA>
+        <translation> monyet </translation>
+      </entry>
+       <entry last-update = "june 2021">
+        <word> mouse </word>
+        <definition> a small animal that is covered in fur and has a long thin tail</definition>
+        <type> mammal </type>
+        <IPA> maus </IPA>
+        <translation> tikus </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> mongoose </word>
+        <definition>a small carnivorous mammal with a long body and tail and a grizzled or banded coat</definition>
+        <type> mammal </type>
+        <IPA> maNG-goos </IPA>
+        <translation> luwak </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> N</alphabet>
+      <entry last-update = "june 2021">
+        <word> newt </word>
+        <definition>a small slender-bodied amphibian with lungs and a well-developed tail, typically spending its adult life on land and returning to water to breed.</definition>
+        <type> reptile </type>
+        <IPA>  n(y)oot </IPA>
+        <translation> cicak </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> O</alphabet>
+      <entry last-update = "june 2021">
+        <word> ostrich </word>
+        <definition> flightless swift-running African bird with a long neck, long legs, and two toes on each foot.</definition>
+        <type> bird </type>
+        <IPA>astriCH</IPA>
+        <translation> burung unta </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> owl </word>
+        <definition>a nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud call.</definition>
+        <type> bird </type>
+        <IPA>oul</IPA>
+        <translation> burung hantu </translation>
+      </entry>
+            <entry last-update = "june 2021">
+        <word> octopus </word>
+        <definition>a cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.</definition>
+        <type> fish </type>
+        <IPA>aktapes</IPA>
+        <translation> sotong </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> P</alphabet>
+      <entry last-update = "june 2021">
+        <word> pigeon </word>
+        <definition>a stout seed- or fruit-eating bird with a small head, short legs, and a cooing voice, typically having gray and white plumage.</definition>
+        <type> bird </type>
+        <IPA>pijen </IPA>
+        <translation> merpati </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> penguin </word>
+        <definition>a large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water..</definition>
+        <type> bird </type>
+        <IPA>peNGgwin </IPA>
+        <translation> penguin </translation>
+      </entry>
+        <entry last-update = "june 2021">
+        <word> pig </word>
+        <definition>an omnivorous domesticated hoofed mammal with sparse bristly hair and a flat snout for rooting in the soil, kept for its meat.</definition>
+        <type> mammal </type>
+        <IPA>pig </IPA>
+        <translation> babi </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> Q</alphabet>
+      <entry last-update = "june 2021">
+        <word> quail </word>
+        <definition> a small, short-tailed Old World game bird resembling a small partridge, typically having brown camouflaged plumage.</definition>
+        <type> bird </type>
+        <IPA>kwAl</IPA>
+        <translation> puyuh </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> R</alphabet>
+      <entry last-update = "june 2021">
+        <word> rabbit </word>
+        <definition>a burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.</definition>
+        <type> mammal </type>
+        <IPA>rabet </IPA>
+        <translation> arnab </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> S</alphabet>
+      <entry last-update = "june 2021">
+        <word> snail </word>
+        <definition>a mollusk with a single spiral shell into which the whole body can be withdrawn.</definition>
+        <type> insect </type>
+        <IPA> snA-yel </IPA>
+        <translation> siput </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> seal </word>
+        <definition>a sea animal that eats fish and lives around coasts. There are many types of seal, some of which are hunted for their fur.</definition>
+        <type> mammal </type>
+        <IPA> si:l </IPA>
+        <translation> anjing laut </translation>
+      </entry>
+      <entry last-update = "june 2021">
+        <word> skunk </word>
+        <definition>a small black and white North American animal that can produce a strong unpleasant smell to defend itself when it is attacked.</definition>
+        <type> mammal </type>
+        <IPA> sk-Unk </IPA>
+        <translation> sigung </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> T</alphabet>
+      <entry last-update = "june 2021">
+        <word> turkey </word>
+        <definition> a large mainly domesticated game bird native to North America, having a bald head</definition>
+        <type> bird </type>
+        <IPA>  terk-ei </IPA>
+        <translation> ayam belanda</translation>
+      </entry>
+       <entry last-update = "june 2021">
+        <word> tiger </word>
+        <definition>a very large solitary cat with a yellow-brown coat striped with black, native to the forests of Asia but becoming increasingly rare.</definition>
+        <type> mammal </type>
+        <IPA>tai-Ger</IPA>
+        <translation> harimau</translation>
+      </entry>
+       <entry last-update = "june 2021">
+        <word> tortoise </word>
+        <definition>a turtle, typically a herbivorous one that lives on land.</definition>
+        <type> mammal </type>
+        <IPA>tordes</IPA>
+        <translation> kura-kura</translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> U</alphabet>
+    </letter>
+        <letter>
+      <alphabet> V</alphabet>
+      <entry last-update = "june 2021">
+        <word> vampire bat </word>
+        <definition>a mainly nocturnal mammal capable of sustained flight, with membranous wings </definition>
+        <type> mammal </type>
+        <IPA> 'vam,pi(e)r bat </IPA>
+        <translation> kelawar </translation>
+      </entry>
+    </letter>
+    <letter>
+      <alphabet> W</alphabet>
+      <entry last-update = "june 2021">
+        <word> wolf </word>
+        <definition> a wild carnivorous mammal of the dog family, living and hunting in packs.</definition>
+        <type> mammal </type>
+        <IPA>  woolf </IPA>
+        <translation> serigala </translation>
+      </entry>
+        <entry last-update = "june 2021">
+        <word> wasp </word>
+        <definition>a social winged insect that has a narrow waist and a sting. It constructs a paper nest from wood pulp and raises the larvae on a diet of insects..</definition>
+        <type> insect </type>
+        <IPA>  wAsp </IPA>
+        <translation> tebuan </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> X</alphabet>
+    </letter>
+        <letter>
+      <alphabet> Y</alphabet>
+      <entry last-update = "june 2021">
+        <word> yak </word>
+        <definition>a large domesticated wild ox with shaggy hair, humped shoulders, and large horns, used in Tibet as a pack animal and for its milk, meat, and hide.</definition>
+        <type> mammal </type>
+        <IPA>  yak </IPA>
+        <translation> yak </translation>
+      </entry>
+    </letter>
+        <letter>
+      <alphabet> Z</alphabet>
+      <entry last-update = "june 2021">
+        <word> zebra </word>
+        <definition> an African wild horse with black-and-white stripdes and an erect mane.</definition>
+        <type> mammal </type>
+        <IPA>  zebreA </IPA>
+        <translation> kuda belang </translation>
+      </entry>
+    </letter>
+  </english>
+  
+  <malay>
+      <letter>
+        <alphabet>A</alphabet>
+        <entry last-update = "mar 2021">
+          <word>aardvark</word>
+          <definition> seekor binatang bersaiz sederhana yang berasal dari Afrika.</definition>
+          <type> kata nama</type>
+          <IPA> ARD-vark </IPA>
+          <translation> aardvark </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>ayam</word>
+          <definition> eberapa jenis binatang (yg bentuk tubuhnya seakan-akan burung tetapi tidak pandai terbang) yg biasanya dipelihara</definition>
+          <type>burung</type>
+          <IPA> a.yam</IPA>
+          <translation> chicken </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>ayam belanda</word>
+          <definition> seekor binatang bersaiz sederhana yang berasal dari Afrika.</definition>
+          <type>burung</type>
+          <IPA>a.yam be.lan.da</IPA>
+          <translation> turkey </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>arnab</word>
+          <definition>sj binatang mengerip yg menyerupai kucing tetapi lebih panjang telinganya.</definition>
+          <type> mamalia</type>
+          <IPA>ar.nab </IPA>
+          <translation> rabbit </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>anjing laut</word>
+          <definition> sj haiwan yang tinggal di dalam laut yang terdapat di kawasan sejuk dan berais, seperti di kutub utara.</definition>
+          <type>mamalia</type>
+          <IPA> an.jing.la.ut </IPA>
+          <translation> seal </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>angsa</word>
+          <definition> sj itik besar</definition>
+          <type> burung</type>
+          <IPA> ang.sa </IPA>
+          <translation> swan </translation>
+        </entry>
+      </letter>
+      <letter><entry last-update = "mar 2021">
+          <word>aligator</word>
+          <definition>sj reptilia besar yg rupanya seakan-akan buaya, biasanya boleh ditemui di tasik dan sungai di Amerika dan China.</definition>
+          <type>reptilia</type>
+          <IPA> a.li.ga.tor </IPA>
+          <translation> alligator </translation>
+        </entry>
+        </letter>
+            <letter>
+        <alphabet>B</alphabet>
+        <entry last-update = "mar 2021">
+          <word>badak air</word>
+          <definition> sj binatang mamalia yg besar dlm famili Hippopotamidae yang suka berendam di air.</definition>
+          <type> mamalia</type>
+          <IPA> [ba.da/]  a.yir </IPA>
+          <translation> hippopotamus </translation>
+        </entry>
+          <entry last-update = "mar 2021">
+          <word>babi</word>
+          <definition>sj binatang mamalia yg berbadan gemuk, berkaki pendek, berkulit tebal, dan bermuncung (diharamkan bagi orang Islam)</definition>
+          <type> mamalia</type>
+          <IPA>ba.bi</IPA>
+          <translation> pig </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>beruang</word>
+          <definition> sj mamalia buas (yg besar, berbulu tebal, dan berekor kontot) dlm famili Ursidae.</definition>
+          <type> mamalia</type>
+          <IPA> [be.ruang] </IPA>
+          <translation> bear </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>burung hantu</word>
+          <definition> sj burung malam, jampuk</definition>
+          <type> burung</type>
+          <IPA> [bu.rung han.tu/] </IPA>
+          <translation> owl </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>burung unta</word>
+          <definition> sj burung besar yg boleh berlari dgn tangkas, Struthio camelus.</definition>
+          <type> burung</type>
+          <IPA> [bu.rung] un.tA </IPA>
+          <translation> ostrich </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>burung kenyalang</word>
+          <definition> ssj burung dlm famili Bucerotidae (yg ada cula di atas paruhnya yg besar) simbolik kepada negeri Sarawak.</definition>
+          <type> burung</type>
+          <IPA> [bu.rung/] han.tu </IPA>
+          <translation> hornbill </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>babun</word>
+          <definition> sj beruk besar yg terdapat di Afrika dan Asia, bermuncung spt anjing dan biasanya berekor pendek, Papio spp</definition>
+          <type> mamalia</type>
+          <IPA> [ba.bun/] </IPA>
+          <translation> baboon </translation>
+        </entry>
+      </letter>
+            <letter>
+        <alphabet>C</alphabet>
+        <entry last-update = "mar 2021">
+          <word>cicak</word>
+          <definition>  sj reptilia kecil (badan dan ekornya pan­jang dan kakinya empat), Hemidactylus spp</definition>
+          <type> mamalia</type>
+          <IPA> [ci.ca/] </IPA>
+          <translation> newt </translation>
+        </entry>
+      </letter>
+      <letter>
+        <alphabet>G</alphabet>
+          <entry last-update = "mar 2021">
+          <word>gajah</word>
+          <definition>  sj mamalia dlm famili Elephantidae (berbadan besar dan mempunyai belalai dan gading)</definition>
+          <type> mamalia</type>
+          <IPA> [rga.jah/] </IPA>
+          <translation> elephant </translation>
+        </entry>
+      </letter>
+        <letter>
+        <alphabet>H</alphabet>
+        <entry last-update = "mar 2021">
+          <word>harimau</word>
+          <definition> sj binatang mamalia yg buas (rupanya spt kucing); jenis-jenisnya: ~ akar = ~ dahan, Neofelis nebulosa.</definition>
+          <type> mamalia</type>
+          <IPA> [ha.ri.mau] </IPA>
+          <translation> tiger </translation>
+        </entry>
+            <entry last-update = "mar 2021">
+          <word>helang</word>
+          <definition> sj burung liar yg biasanya menyambar ayam</definition>
+          <type> burung</type>
+          <IPA> [he.lang] </IPA>
+          <translation> eagle </translation>
+        </entry>
+      </letter>
+        <letter>
+        <alphabet>I</alphabet>
+        <entry last-update = "mar 2021">
+          <word>iguana</word>
+          <definition> sj binatang yg menyerupai sumpah-sumpah tetapi lebih besar, drpd genus Iguana, yg mempunyai sirip spt duri di belakang badan, hidup di pokok, dan biasanya terdapat di bahagian tropika Amerika..</definition>
+          <type> reptilia</type>
+          <IPA> [i.gua.na/] </IPA>
+          <translation> iguana </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>ikan</word>
+          <definition>sj haiwan yang hidup di dalam air, mempunyai sisik yang berlendir dan mempunyai sirip untuk bergerak.</definition>
+          <type> ikan</type>
+          <IPA> [ee.kan/] </IPA>
+          <translation> fish </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>itik</word>
+          <definition> j binatang yg lebih kecil drpd angsa.</definition>
+          <type> burung</type>
+          <IPA> [i.ti/] </IPA>
+          <translation> duck </translation>
+        </entry>
+      </letter>
+      <letter>
+        <alphabet>K</alphabet>
+        <entry last-update = "mar 2021">
+          <word>kanggaru </word>
+          <definition>sj binatang maun yg terdapat di Australia yg mempunyai dua kaki belakang yg panjang dan bergerak dgn melompat, Macropus spp </definition>
+          <type>mamalia</type>
+          <IPA>kang.ga.ru</IPA>
+          <translation> kangaroo </translation>
+        </entry>
+          <entry last-update = "mar 2021">
+          <word>kuda </word>
+          <definition>sj binatang besar berkaki empat yg dipelihara utk kenaikan </definition>
+          <type>mamalia</type>
+          <IPA>ku·da</IPA>
+          <translation> horse </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>kuda belang</word>
+          <definition>kuda yg badannya berbelang-belang</definition>
+          <type>mamalia</type>
+          <IPA>ku·da·be·lang</IPA>
+          <translation> zebra </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>kelawar</word>
+          <definition>sj keluang kecil (makanannya serangga)</definition>
+          <type>mamalia</type>
+          <IPA>ke.la.war</IPA>
+          <translation> bat </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>kucing</word>
+          <definition>sj binatang yg kecil, berbulu lembut dan tebal, dipelihara sbg binatang kesayangan, biasanya utk menangkap tikus</definition>
+          <type>mamalia</type>
+          <IPA>ku.cing</IPA>
+          <translation> cat </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>kura-kura</word>
+          <definition>sj binatang reptilia dlm keluarga yg mempunyai kulit yg keras di belakangnya dan dapat hidup di air dan di darat</definition>
+          <type>reptilia</type>
+          <IPA>ku.ra-ku.ra</IPA>
+          <translation> tortoise </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>kumbang</word>
+          <definition>sj serangga yg berkepak dan berkulit keras</definition>
+          <type>serangga</type>
+          <IPA>kum.bang</IPA>
+          <translation> beetle </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>kumbang betina</word>
+          <definition>sejenis serangga yang berasal dari negara Asia Selatan dan tersebar ke kawasan tropika yang terdapat pertumbuhan tanaman kelapa.</definition>
+          <type>serangga</type>
+          <IPA>kum.bang. be.ti.na</IPA>
+          <translation> ladybug </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>kambing</word>
+          <definition>sj binatang mamalia spt domba atau biri-biri</definition>
+          <type>mamalia</type>
+          <IPA>kam.bing</IPA>
+          <translation> goat </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>katak</word>
+          <definition>sj binatang yg melompat, berkaki renang, berkulit licin, dan tidak berekor;</definition>
+          <type>amfibia</type>
+          <IPA>ka.tak</IPA>
+          <translation> frog </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>keldai</word>
+          <definition>sj binatang seakan-akan kuda tetapi lebih kecil</definition>
+          <type>mamalia</type>
+          <IPA>kel.dai</IPA>
+          <translation> donkey </translation>
+        </entry>
+      </letter>
+        <letter>
+        <alphabet>L</alphabet>
+        <entry last-update = "mar 2021">
+          <word>luwak</word>
+          <definition> sj binatang yg tinggal di atas pokok yang didapati di Europah Selatan, Afrika dan Asia .</definition>
+          <type> mamalia</type>
+          <IPA> [lu.wak] </IPA>
+          <translation> mongoose </translation>
+        </entry>
+            <entry last-update = "mar 2021">
+          <word>lalat</word>
+          <definition> sj serangga (yg biasanya hinggap pd benda kotor dan pd makanan)</definition>
+          <type> serangga</type>
+          <IPA> [la.lat] </IPA>
+          <translation> fly </translation>
+        </entry>
+      </letter>
+        <letter>
+        <alphabet>M</alphabet>
+        <entry last-update = "mar 2021">
+          <word>merpati</word>
+          <definition> sj burung, burung dara, Columba domestica</definition>
+          <type> burung</type>
+          <IPA> [mer.pa.ti] </IPA>
+          <translation> pigeon </translation>
+        </entry>
+            <entry last-update = "mar 2021">
+          <word>monyet</word>
+          <definition> sj binatang yg hampir sama dgn kera.</definition>
+          <type> mamalia</type>
+          <IPA> [mo.nyet] </IPA>
+          <translation> monkey </translation>
+        </entry>
+            <entry last-update = "mar 2021">
+          <word>musang</word>
+          <definition> sj binatang liar (yg gemar memakan ayam)</definition>
+          <type> mamalia</type>
+          <IPA> [mu.sang] </IPA>
+          <translation> fox </translation>
+        </entry>
+      </letter>
+              <letter>
+        <alphabet>P</alphabet>
+        <entry last-update = "mar 2021">
+          <word>penguin</word>
+          <definition> sj burung laut di Antartika yg berwarna hitam putih, berkaki pendek, menggunakan sayapnya utk berenang, dan berjalan tegak lurus di darat. .</definition>
+          <type> burung</type>
+          <IPA> [peng.guin] </IPA>
+          <translation> penguin </translation>
+        </entry>
+            <entry last-update = "mar 2021">
+          <word>puyuh</word>
+          <definition> sj burung kecil yg tidak berekor, Tatnix suscitator atrogularis</definition>
+          <type> burung</type>
+          <IPA> [lpu.yuh] </IPA>
+          <translation> quail </translation>
+        </entry>
+      </letter>
+        <letter>
+        <alphabet>R</alphabet>
+          <entry last-update = "mar 2021">
+          <word>rusa</word>
+          <definition>  sj binatang yg tanduknya bercabang-cabang dan memakan tumbuh-tumbuhan, menjangan, Cervus equimus</definition>
+          <type> mamalia</type>
+          <IPA> [ru.sa/] </IPA>
+          <translation> deer </translation>
+        </entry>
+      </letter>
+      <letter>
+        <alphabet>S</alphabet>
+        <entry last-update = "mar 2021">
+          <word>serigala</word>
+          <definition> sj binatang liar (rupanya spt anjing dan berwarna kuning kekelabu-kelabuan), Canis lupus.</definition>
+          <type> mamalia</type>
+          <IPA> [se.ri.ga.la/] </IPA>
+          <translation> wolf </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>singa</word>
+          <definition> sj binatang buas, Panthera leo.</definition>
+          <type> mamalia</type>
+          <IPA> [si.ngaa/] </IPA>
+          <translation> lion </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>sotong</word>
+          <definition> sj ikan gurita (ikan tinta, cumi-cumi)</definition>
+          <type> ikan</type>
+          <IPA> [so.tong/] </IPA>
+          <translation> octopus </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>siput</word>
+          <definition> sj kerang-kerangan (binatang lunak) yg berkulit keras;.</definition>
+          <type> serangga</type>
+          <IPA> [si.put] </IPA>
+          <translation> snail </translation>
+        </entry>
+        <entry last-update = "mar 2021">
+          <word>semut</word>
+          <definition> sj serangga yg merayap</definition>
+          <type> serangga</type>
+          <IPA> [se.mut] </IPA>
+          <translation> ant </translation>
+        </entry>
+          <entry last-update = "mar 2021">
+          <word>sigung</word>
+          <definition> sj musang yg berbau busuk, musang jebat, Mydaus meliceps;.</definition>
+          <type> mamalia</type>
+          <IPA> [si.gung] </IPA>
+          <translation> skunk </translation>
+        </entry>
+      </letter>
+          <letter>
+        <alphabet>T</alphabet>
+        <entry last-update = "mar 2021">
+          <word>tebuan</word>
+          <definition> sj serangga yg bersengat (biasanya membuat sarang di pokok), Gespa tropica.</definition>
+          <type> serangga</type>
+          <IPA> [lte.buan] </IPA>
+          <translation> wasp </translation>
+        </entry>
+            <entry last-update = "mar 2021">
+          <word>tikus</word>
+          <definition>sj binatang mengerip</definition>
+          <type> mamalia</type>
+          <IPA> ti.kus </IPA>
+          <translation> mouse </translation>
+        </entry>
+      </letter>
+      <letter>
+        <alphabet>U</alphabet>
+        <entry last-update = "mar 2021">
+          <word>unta</word>
+          <definition>sj binatang besar yg lehernya panjang (kuku berbelah dan belakangnya berbonggol satu atau dua), Camelus spp</definition>
+          <type> mamalia</type>
+          <IPA> [un.ta] </IPA>
+          <translation> camel </translation>
+        </entry>
+          <entry last-update = "mar 2021">
+          <word>ubur-ubur</word>
+          <definition>sj binatang laut yg badannya spt agar-agar dan berjurai-jurai (berjumbai-jumbai tepinya),</definition>
+          <type> ikan</type>
+          <IPA> [u.bur u.bur/] </IPA>
+          <translation> jellyfish </translation>
+        </entry>
+          <entry last-update = "mar 2021">
+          <word>udang galah</word>
+          <definition> berbagai-bagai jenis binatang (berkulit keras, berkaki sepuluh dan berekor) yg hidup di air dan boleh dimakan</definition>
+          <type> krustasia</type>
+          <IPA> [u.dang ga.lah/] </IPA>
+          <translation> lobster </translation>
+        </entry>
+      </letter>
+      <letter>
+        <alphabet>Y</alphabet>
+        <entry last-update = "mar 2021">
+          <word>yak</word>
+          <definition> sj lembu yg bertanduk panjang, berbulu tebal dan berjumbai-jumbai, yg terdapat terutamanya di kawasan pergunungan Himalaya dan di Tibet, Bos grunniens</definition>
+          <type> mamalia</type>
+          <IPA> [ya/] </IPA>
+          <translation> yak </translation>
+        </entry>
+      </letter>
+      <letter>
+        <alphabet>Z</alphabet>
+        <entry last-update = "mar 2021">
+          <word>zirafah</word>
+          <definition> sj binatang yg tinggi dan panjang lehernya, dgn warna badan yg bertompok-tompok, Giraffa cameopardalis.</definition>
+          <type> mamalia</type>
+          <IPA> [zi.ra.fah] </IPA>
+          <translation> giraffe </translation>
+        </entry>
+      </letter>
+  </malay>
+</dictionary>

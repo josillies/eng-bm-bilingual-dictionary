@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" href="dictionary.css">
+  </head>
+
+
+
+<body onload="loadXMLDoc()">
+
+  <h1>English-Malay Bilingual Dictionary of Animals</h1>
+    <h2>Kamus Dwibahasa Bahasa Inggeris-Bahasa Melayu</h2>
+    
+    <div class="topnav">
+    <a href="translation.xml#english">English Dictionary</a>
+    <a href="translation.xml#malay">Kamus Bahasa Melayu</a>
+    <a class="active" href = "search.html">search</a>
+    </div>
+  
+    <br><br>
+
+  <input type="radio" name="selection" id="searchname"/><a class ="radiotext">Search by name</a><br/>
+  <input type="radio" name="selection" id="searchtype"/><a class ="radiotext">Search by type</a><br/>
+  
+  <br><br>
+    
+  <input type="text" id="myInput" onkeyup="searchType()" placeholder="Search">
+
+  <br><br>
+  <table id="demo"><tr><th>Name</th><th>Definition</th><th>Type</th><th>IPA</th><th>Translation</th></tr></table>
+
+<script>
+  function loadXMLDoc() {
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+        myFunction(this);
+      }
+    };
+    xmlhttp.open("GET", "translation.xml", true);
+    xmlhttp.send();
+
+  }
+  function myFunction(xml) {
+    var i;
+    var xmlDoc = xml.responseXML;
+    var table="<tr><th>Name</th><th>Definition</th><th>Type</th><th>IPA</th><th>Translation</th></tr>";
+    var x = xmlDoc.getElementsByTagName("entry");
+    for (i = 0; i <x.length; i++) { 
+      table += "<tr><td>" +
+      x[i].getElementsByTagName("word")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("definition")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("type")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("IPA")[0].childNodes[0].nodeValue +
+      "</td><td>" +
+      x[i].getElementsByTagName("translation")[0].childNodes[0].nodeValue +
+      "</td></tr>";
+    }
+    document.getElementById("demo").innerHTML = table;
+  }
+
+  function searchType(){
+    if(document.getElementById('searchname').checked) {
+      search1();
+    }
+    else if(document.getElementById('searchtype').checked) {
+      search2();
+    }
+  }
+    function search1() {
+
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById('myInput');
+      filter = input.value.toUpperCase();
+      table = document.getElementById("demo");
+      tr = table.getElementsByTagName('tr');
+
+      // Loop through all list items, and hide those who don't match the search query
+
+      for (i = 0; i < tr.length; i++) {
+
+        td = tr[i].getElementsByTagName("td")[0];
+        if (td) {
+            txtValue = td.textContent || td.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+              tr[i].style.display = "";
+            } else {
+              tr[i].style.display = "none";
+            }
+
+      	}
+      }
+    }
+    
+    function search2() {
+
+        // Declare variables
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById('myInput');
+        filter = input.value.toUpperCase();
+        table = document.getElementById("demo");
+        tr = table.getElementsByTagName('tr');
+
+        for (i = 0; i < tr.length; i++) {
+
+          td = tr[i].getElementsByTagName("td")[2];
+          if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+              } else {
+                tr[i].style.display = "none";
+              }
+
+        	}
+        }
+      }
+
+  </script>
+
+</body>
+</html>
